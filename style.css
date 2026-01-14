@@ -1,4 +1,4 @@
-body.big-page {
+body.space {
 	overflow: hidden;
 	background: url('images/bg.jpg');
 	background-size: cover;
@@ -27,4 +27,5 @@ body.big-page {
 #sun {
 	width: 125px;
 	z-index: 1;
+	transform: translate(-50%, -50%);
 }
